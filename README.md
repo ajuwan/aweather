@@ -14,10 +14,7 @@ A modern, React + Vite-based weather app with smooth video backgrounds and real-
 
 ---
 
-##  Demo
-*(Insert your app’s live URL here, e.g., Vercel / Netlify / GitHub Pages)*
 
----
 
 ##  Installation
 
