@@ -3,8 +3,8 @@ import DateTimeDisplay from './D&t';
 import Weather from './weather';
 
 // 🎥 Import multiple videos for different weathers
-import sunnyVideo from './assets/video/sunny.mp4';
-import rainyVideo from './assets/video/rain.mp4';
+import SunnyVideo from './assets/video/Sunny.mp4';
+import rainyVideo from './assets/video/Rain.mp4';
 import cloudyVideo from './assets/video/cloudy.mp4';
 import defaultVideo from './assets/video/Sunny.mp4';
 
@@ -17,7 +17,7 @@ function App() {
   const getBackgroundVideo = () => {
     switch (weatherDesc) {
       case "Clear":
-        return sunnyVideo;
+        return SunnyVideo;
       case "Rain":
         return rainyVideo;
       case "Clouds":
