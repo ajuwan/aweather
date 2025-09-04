@@ -1,0 +1,52 @@
+.weather-box {
+  position: absolute; /* or fixed if you want it always visible on scroll */
+  top: 10px;  /* distance from top */
+  right: 20px; /* distance from right */
+  
+  /* background: #ffffff28; */
+  border-radius: 20px;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+  width: 300px;
+  height: auto;
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+/* .city-name {
+  font-size: 0.9rem;
+  font-weight: 600;
+  
+  color: #ffffff;
+} */
+/* .weather-box {
+  background-size: cover;
+  background-position: center;
+  padding: 20px 40px;
+  border-radius: 20px;
+  text-align: center;
+  cursor: pointer;
+ 
+} */
+
+.temp-display {
+  position: relative;
+  bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  font-size: 12rem;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #e2df2a;
+}
+.description {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+}
